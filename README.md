@@ -1,6 +1,6 @@
 ## System.out.println("Hello World 👋")
 
-<h3 align="center">**Associate Software Engineer | Tech Enthusiast | UK 🇬🇧**</h3>
+<h3 align="center">Associate Software Engineer | Tech Enthusiast | UK 🇬🇧</h3>
 
 Welcome to my GitHub! 
 
